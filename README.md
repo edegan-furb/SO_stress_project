@@ -5,5 +5,5 @@ Baixar o Node </br>
 
  como executar: <br/>
  - `node stress.js cpu ram disk-write disk-read --time 30` <br/>
- - os campos :`cpu` `ram` `disk-write` `disk-read` `--time 30` são "parametros" podem ser passados um por um ou todos de uma vez
+ - os campos :`cpu`, `ram`, `disk-write`, `disk-read`, `--time 30` são "argumentos" podem ser passados um por um ou todos de uma vez
 
