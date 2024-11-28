@@ -1,3 +1,7 @@
+const os = require('os');
+const { fork } = require('child_process'); // Ensure `fork` is also imported
+
+
 // Array que irá armazenar os workers criados
 let workers = [];
 

@@ -1,3 +1,6 @@
+const fs = require('fs');
+const path = require('path');
+
 // Variável para armazenar o intervalo do estresse do disco
 let diskInterval = null;
 
